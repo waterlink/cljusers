@@ -11,6 +11,7 @@
                  [meta-merge "0.1.1"]
                  [ring "1.3.2"]
                  [ring/ring-defaults "0.1.3"]
+                 [ring/ring-json "0.3.1"]
                  [ring-jetty-component "0.2.2"]
                  [duct/hikaricp-component "0.1.0"]
                  [org.postgresql/postgresql "9.3-1102-jdbc4"]]
