@@ -36,6 +36,8 @@
                    :repl-options {:init-ns user}
                    :dependencies [[reloaded.repl "0.1.0"]
                                   [org.clojure/tools.namespace "0.2.8"]
-                                  [kerodon "0.5.0"]]
+                                  [kerodon "0.5.0"]
+                                  [peridot "0.3.1"]
+                                  [clj-time "0.6.0"]]
                    :env {:port 3000}}
    :project/test  {}})
